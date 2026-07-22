@@ -1,4 +1,4 @@
 ---
 title:
 ---
-> "If you want to succeed, double your failure rate." — Thomas J. Watson
+> "It's not 10,000 hours, it's 10,000 iterations." - Naval Ravikant
